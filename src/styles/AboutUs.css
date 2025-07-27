@@ -1,0 +1,29 @@
+.aboutus-container {
+  max-width: 1000px;
+  margin: 0 auto 35px auto;
+  padding: 18px;
+  background: #f6f3fa;
+}
+.aboutus-banner {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 22px;
+  min-height: 180px;
+  object-fit: cover;
+  box-shadow: 0 5px 22px #764ba233;
+}
+.aboutus-desc {
+  margin: 12px 0 40px 0;
+  font-size:1.18rem;
+  color: #341563;
+  text-align: center;
+}
+.owners-section {
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  margin: 15px 0 35px 0;
+}
+@media (max-width:700px){
+  .owners-section {gap:30px;}
+}
