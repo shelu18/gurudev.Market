@@ -1,0 +1,35 @@
+
+  
+{
+  "header": {
+    "welcome": "Welcome to Gurudev Market",
+    "about_us": "About Us"
+  },
+  "footer": {
+    "contact_us": "Contact Us"
+  },
+  "landingPage": {
+    "explore_market": "Explore Our Marketplace",
+    "book_shop": "Book Your Shop"
+  },
+
+
+  
+  "ContactUs" :{
+  "contact_us": "Contact Us",
+  "contact_details": "Owner Contact",
+  "phone": "Phone",
+  "email": "Email",
+  "contact_owner_note": "You may call or email us for urgent queries or fill the booking form alongside.",
+  "enquiry_form": "Shop Booking / Enquiry",
+  "full_name": "Full Name",
+  "address": "Address",
+  "mobile_number": "Mobile Number",
+  "purpose_open_shop": "Purpose (What shop do you want to open?)",
+  "send_enquiry": "Send Enquiry",
+  "thank_you_enquiry": "Thank you! Your enquiry was sent.",
+  "explore_market": "Explore Our Marketplace",
+  "book_shop": "Book Your Shop"
+}
+
+}

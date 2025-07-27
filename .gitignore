@@ -17,8 +17,25 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files
+.env
+.env.*
+
+# Build tool caches and outputs
+.parcel-cache
+.next
+.vercel
+.turbo
+coverage
+.eslintcache
+.yarn/*
+.pnp.*
+*.tgz
+*.zip

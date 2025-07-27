@@ -1,12 +1,14 @@
+
 import React from "react";
 import { Link } from "react-router-dom";
-import "../../styles/Header.css"; // Import CSS for header styles
+import "../../styles/Header.css";
+import logo from '../../assets/logo/logo.jpg';
 
 export default function Header() {
   return (
     <header className="main-header">
       <div className="header-logo">
-        <span className="logo-mark">GM</span>
+        <img src={logo} alt="Gurudev Market Logo" className="logo-mark" />
         <span className="logo-name">Gurudev Market</span>
       </div>
       <nav>
