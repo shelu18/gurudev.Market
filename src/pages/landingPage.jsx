@@ -118,8 +118,8 @@ export default function LandingPage() {
       </section>
 
       <footer className="landing-footer">
-        <div>🏢 &nbsp; Gurudev Market, Highway near Depalpur</div>
-        <div>📞 &nbsp; +91-XXXXXXXXXX &nbsp; | &nbsp; © 2025 Gurudev Market</div>
+        <div>🏢 &nbsp; Gurudev Market, Jalodiya Panth Betma Road, Depalpur</div>
+        <div>📞 &nbsp; +91-9754265265 &nbsp; | &nbsp; © 2025 Gurudev Market</div>
       </footer>
     </div>
   );
