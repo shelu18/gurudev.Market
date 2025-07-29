@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/gurudevMarket        import { HashRouter as Router, Routes, Route } from "react-router-dom";        import { HashRouter as Router, Routes, Route } from "react-router-dom";" element={<LandingPage />} />
+        <Route path="/gurudevMarket" element={<LandingPage />} />
         <Route path="/about" element={<AboutUs />} />
         <Route path="/contact" element={<ContactUs />} />
         {/* Add more routes as needed */}
